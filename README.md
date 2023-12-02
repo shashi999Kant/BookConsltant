@@ -1,10 +1,9 @@
 
-Certainly! A good README file provides essential information about your project, helping users and contributors understand what your project is about, how to use it, and how to contribute. Below is a sample README file for your GitHub repository:
 
-Booking System
+#Booking System
 The Booking System is a Java Spring Boot application that manages user sessions and meetings.
 
-Table of Contents
+#Table of Contents
 Features
 Technologies Used
 Getting Started
@@ -32,7 +31,7 @@ Contributing
 License
 
 
-Features
+#Features
 User Management: Allows the creation of users with name, address, and role details.
 Session Management: Enables users to schedule, cancel, and reschedule sessions with mentors.
 Recurring Sessions: Supports the booking of recurring sessions for a specified duration.
@@ -52,7 +51,7 @@ Make sure you have the following installed on your machine:
 Java JDK (version 8 or later)
 Maven
 
-Installation
+#Installation
 Clone the repository:
 
 bash
